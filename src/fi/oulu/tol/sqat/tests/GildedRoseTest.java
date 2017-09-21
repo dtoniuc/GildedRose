@@ -476,7 +476,7 @@ public class GildedRoseTest {
 		// Assert
 		List<Item> items = store.getItems();
 		Item item = items.get(0);
-		assertEquals(49, item.getQuality());
+		assertEquals(50, item.getQuality());
 	}
 	
 	// Quality Sulfuras tests
